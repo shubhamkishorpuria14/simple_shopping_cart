@@ -3,7 +3,6 @@
 ### Run locally on your machine
 You need to have installed Node and NPM.
 
-![NodeJS Shopping Cart](/data/nodejs-cart-1.png?raw=true "NodeJS Shopping Cart")
 
 Clone this repository
 ``` shell
